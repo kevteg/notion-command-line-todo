@@ -1,7 +1,8 @@
 # notion-command-line-todo
 Add something to your notion TODO list from the command line
 
-<img width="760" alt="A TODO page on notion and the terminal with the TODO command on it" src="https://user-images.githubusercontent.com/5288503/160753789-17d93613-ea89-4379-8e86-d06bf2251a89.png">
+<img width="742" alt="A TODO page on notion and the terminal with the TODO command on it" src="https://user-images.githubusercontent.com/5288503/160754618-d062e323-51f0-48e5-8f37-446daae81967.png">
+
 
 ## Seting up the notion page
 
