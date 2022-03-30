@@ -7,7 +7,7 @@ Add something to your notion TODO list from the command line
 
 - Create a new [notion integration](https://developers.notion.com/docs/getting-started#step-1-create-an-integration)
 - Make sure to share your TODO page with your integration: (Here you have a [simple example](https://keeeevin.notion.site/TODO-f0f9e8f1c35744ee8bf87fa2dd83882a))
-<img width="427" alt="Screen_Shot_2022-03-22_at_4_52_14_PM" src="https://user-images.githubusercontent.com/5288503/159582677-c1d4c2f5-2d07-44fe-92a1-34ef524f1d20.png">
+<img width="427" alt="Notion share modal" src="https://user-images.githubusercontent.com/5288503/159582677-c1d4c2f5-2d07-44fe-92a1-34ef524f1d20.png">
 
 - Copy the page ID: 
 <img width="652" alt="Example image of the page ID" src="https://user-images.githubusercontent.com/5288503/160753469-7deaacfe-1704-4bcc-9a8a-c30924c5ce78.png">
