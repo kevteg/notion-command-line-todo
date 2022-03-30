@@ -47,7 +47,7 @@ Then you can just do this:
 > todo buy brocoli 
 ```
 
-### List things in the notion page: 
+### List things on the notion page: 
 
 You will see all the TODO blocks on your notion page
 
